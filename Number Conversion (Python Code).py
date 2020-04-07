@@ -1,5 +1,4 @@
-efrom math import *
-from string import *
+
 while(True):
     def dectobin(userinput):
         pointindex = userinput.find(".")
